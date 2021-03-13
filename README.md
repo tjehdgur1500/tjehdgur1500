@@ -6,6 +6,6 @@
 
 <h1>My Goals</h1>
 <ul>
-  <li>📆 Full Pre 11 Pass 03.02 ~ </li>
-  <li>📈 immersive Pass </li>
+  <li>📆 &nbsp Full Pre 11 Pass 03.02 ~ </li>
+  <li>📈 &nbsp immersive Pass </li>
 </ul>
