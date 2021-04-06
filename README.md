@@ -6,6 +6,6 @@
 
 <h1>My Goals</h1>
 <ul>
-  <li>🔏 &nbsp Full Pre 11 03.02 ~ </li>
-  <li>🔒 &nbsp immersive </li>
+  <li>🔓 &nbsp Full Pre 11 03.02 ~ 04.02 </li>
+  <li>🔏 &nbsp Full immersive 28 04.03 ~ </li>
 </ul>
